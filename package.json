@@ -1,0 +1,21 @@
+{
+  "name": "ghatpulse-mp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Historical environmental evidence decision-support prototype",
+  "scripts": {
+    "compile": "tsc -p tsconfig.json",
+    "dev": "npm run compile && vite --host 0.0.0.0",
+    "build": "npm run compile && node scripts/build.mjs",
+    "preview": "vite preview --host 0.0.0.0",
+    "test": "npm run compile && node tests/engine.test.cjs",
+    "fetch:data": "node scripts/fetch-data.mjs",
+    "serve:offline": "npm run compile && node scripts/serve.mjs",
+    "build:vite": "npm run compile && vite build"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3",
+    "vite": "^6.3.0"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,28 @@
+{
+  "source_dataset_rows": 1524,
+  "source_file_sha256": "6068f686d2e78296ad7d165dd6762abf38fed3b908cdb94cd3b240d414329c6b",
+  "pdf_sha256": {
+    "2023": "24fd6751fd146fdf090a061434f0c537609bcaedb0c4da88c380910fbe683821",
+    "2024": "96f6a8c73530bc31283975ec3214a8fcc9982424964aa482de14e61e5a22e574",
+    "2025": "958967febe438dffdc16e3041e0d1acf24d028d26d766c445132a211af2c7c83"
+  },
+  "referenced_page_groups": 19,
+  "page_groups_verified_by_reviewer": 0,
+  "observations_verified_by_reviewer": 0,
+  "unverified_observations": 1524,
+  "per_year_observation_status": {
+    "2023": {
+      "unchecked": 525
+    },
+    "2024": {
+      "unchecked": 546
+    },
+    "2025": {
+      "unchecked": 453
+    }
+  },
+  "site_match_confidence_remains_independent_of_source_transcription": true,
+  "invalid_approvals": [],
+  "complete_manual_source_audit": false,
+  "note": "Verified means a human reviewer attested PDF-to-CSV transcription and page mapping. It is not government validation or verified site identity."
+}

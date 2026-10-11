@@ -1,0 +1,1 @@
+csv_line,source_row_sha256,year,festival,site,water_body,phase,parameter,value,unit_assumed,flag,value_as_printed,parameter_as_printed,site_as_printed,site_match_confidence,source_page,row_status,site_text_matches,parameter_text_matches,phase_column_matches,value_or_flag_matches,reviewer,reviewed_utc,notes

@@ -1,0 +1,72 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 2140 >>
+stream
+BT /F1 10 Tf 45 775 Td 14 TL
+(GHATPULSE MP | HISTORICAL DECISION BRIEF) Tj
+T* (Ghat: Khatlapura ghat) Tj
+T* (Coverage: 2023-2025 | No live 2026 readings) Tj
+T* ( ) Tj
+T* (PRIORITY SIGNAL) Tj
+T* (40.0/100 - illustrative Historical Exceedance Index, not an official risk, safety or) Tj
+T* (regulatory assessment.) Tj
+T* ( ) Tj
+T* (MEASUREMENT SUPPORT) Tj
+T* (DO: 0/3 \(3 numerical readings\); BOD: 3/3 \(3 numerical readings\); pH: 0/3 \(3 numerical) Tj
+T* (readings\).) Tj
+T* (9 numeric DO/BOD/pH readings across 12 recorded observations.) Tj
+T* ( ) Tj
+T* (SELECTED SOURCE EVIDENCE) Tj
+T* (2025 Ganesh / during: BOD 5.4 mg/l \(Outside ; BOD > 3 mg/L; report page 28\)) Tj
+T* (2025 Ganesh / after: BOD 5.2 mg/l \(Outside ; BOD > 3 mg/L; report page 28\)) Tj
+T* (2025 Ganesh / pre: BOD 4.4 mg/l \(Outside ; BOD > 3 mg/L; report page 28\)) Tj
+T* ( ) Tj
+T* (EVIDENCE LIMITATIONS) Tj
+T* (1 not-sampled records ; 2 BDL observations \(not zero\). BDL means below detection limit, not) Tj
+T* (zero. Unsampled records are not evidence of clean water. Site matching: marked high) Tj
+T* (confidence; still verify original site labels. Historical results cannot establish present) Tj
+T* (conditions, health outcomes, legal compliance or immersion approval. The BOD >3 mg/L rule) Tj
+T* (is a challenge-provided comparator subject to confirmation of sampling and method) Tj
+T* (comparability.) Tj
+T* ( ) Tj
+T* (RECOMMENDED CHECKS) Tj
+T* (1. Request updated DO, BOD and pH sampling with documented time, phase, lab method and) Tj
+T* (chain of custody.) Tj
+T* (2. Ask the laboratory to confirm BOD methodology before making regulatory interpretations.) Tj
+T* (3. Fill phase and parameter sampling gaps before comparing sites as equivalent.) Tj
+T* (4. Verify key entries and page references against the MPPCB PDFs before operational use.) Tj
+T* ( ) Tj
+T* (SOURCE REFERENCES) Tj
+T* (2025 MPPCB report, page 28; 2023 MPPCB report, page 26) Tj
+T* (MPPCB original reports for 2023, 2024 and 2025; printed references are reported from CSV) Tj
+T* (and not independently page-verified.) Tj
+T* ( ) Tj
+T* (Historical prototype. No live government integrations.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000185 00000 n 
+0000002377 00000 n 
+trailer
+<< /Root 1 0 R /Size 6 >>
+startxref
+2503
+%%EOF

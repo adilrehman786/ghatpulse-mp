@@ -1,0 +1,4 @@
+{
+  "compilerOptions": { "target":"ES2020", "module":"none", "lib":["ES2020","DOM"], "outFile":"dist/app.js", "strict":false, "noImplicitAny":false, "skipLibCheck":true, "removeComments":false },
+  "files": ["src/config.ts", "src/data.ts", "src/scoring.ts", "src/exports.ts", "src/ui.ts"]
+}

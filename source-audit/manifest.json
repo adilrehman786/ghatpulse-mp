@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "source_csv": "public\\data\\bhopal_ghats_2023_2025.csv",
+  "csv_sha256": "6068f686d2e78296ad7d165dd6762abf38fed3b908cdb94cd3b240d414329c6b",
+  "row_count": 1524,
+  "reports": {
+    "2023": {
+      "file": "2023.pdf",
+      "sha256": "24fd6751fd146fdf090a061434f0c537609bcaedb0c4da88c380910fbe683821",
+      "pdf_pages": 87
+    },
+    "2024": {
+      "file": "2024.pdf",
+      "sha256": "96f6a8c73530bc31283975ec3214a8fcc9982424964aa482de14e61e5a22e574",
+      "pdf_pages": 118
+    },
+    "2025": {
+      "file": "2025.pdf",
+      "sha256": "958967febe438dffdc16e3041e0d1acf24d028d26d766c445132a211af2c7c83",
+      "pdf_pages": 92
+    }
+  },
+  "initialized_utc": "2026-10-11T14:51:45.574899+05:30"
+}

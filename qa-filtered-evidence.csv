@@ -1,0 +1,73 @@
+﻿year,festival,site,water_body,phase,parameter,value,unit_assumed,flag,value_as_printed,parameter_as_printed,site_as_printed,site_match_confidence,source_page
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,pre,pH,,,*,*,pH,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,during,pH,7.36,,,7.36,pH,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,after,pH,,,**,**,pH,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,pre,Dissolved oxygen,,mg/l,not sampled,,D.Oxygen,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,during,Dissolved oxygen,0.0,mg/l,,0,D.Oxygen,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,after,Dissolved oxygen,,mg/l,not sampled,,D.Oxygen,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,pre,BOD,,mg/l,not sampled,,BOD,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,during,BOD,8.0,mg/l,,8,BOD,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,after,BOD,,mg/l,not sampled,,BOD,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2023,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,pre,Dissolved oxygen,5.6,mg/l,,5.6,D.Oxygen,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,26
+2023,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,during,Dissolved oxygen,4.5,mg/l,,4.5,D.Oxygen,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,26
+2023,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,after,Dissolved oxygen,0.0,mg/l,,0,D.Oxygen,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,26
+2023,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,pre,BOD,3.8,mg/l,,3.8,BOD,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,26
+2023,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,during,BOD,4.2,mg/l,,4.2,BOD,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,26
+2023,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,after,BOD,10.0,mg/l,,10,BOD,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,26
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,pre,pH,8.23,,,8.23,pH,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,during,pH,8.71,,,8.71,pH,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,after,pH,8.44,,,8.44,pH,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,pre,Dissolved oxygen,5.6,mg/l,,5.6,D.Oxygen,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,during,Dissolved oxygen,7.0,mg/l,,7,D.Oxygen,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,after,Dissolved oxygen,6.4,mg/l,,6.4,D.Oxygen,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,pre,BOD,5.2,mg/l,,5.2,BOD,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,during,BOD,10.0,mg/l,,10,BOD,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,after,BOD,5.2,mg/l,,5.2,BOD,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Khatlapura ghat,Lower Lake,pre,pH,7.34,,,7.34,pH,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,during,pH,8.0,,,8,pH,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,after,pH,7.76,,,7.76,pH,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,pre,Dissolved oxygen,7.3,mg/l,,7.3,D.Oxygen,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,during,Dissolved oxygen,6.0,mg/l,,6,D.Oxygen,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,after,Dissolved oxygen,6.5,mg/l,,6.5,D.Oxygen,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,pre,BOD,4.4,mg/l,,4.4,BOD,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,during,BOD,5.4,mg/l,,5.4,BOD,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,after,BOD,5.2,mg/l,,5.2,BOD,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2023,Ganesh,Khatlapura ghat,Lower Lake,pre,Chromium,,mg/l,BDL,BDL,Chromium,"Khatlapura Visarjanghat, Bhopal",high,26
+2023,Ganesh,Khatlapura ghat,Lower Lake,during,Chromium,,mg/l,not sampled,_,Chromium,"Khatlapura Visarjanghat, Bhopal",high,26
+2023,Ganesh,Khatlapura ghat,Lower Lake,after,Chromium,,mg/l,BDL,BDL,Chromium,"Khatlapura Visarjanghat, Bhopal",high,26
+2025,Ganesh,Malikhedi kund,Kund,pre,pH,,,*,*,pH,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,during,pH,7.53,,,7.53,pH,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,after,pH,,,**,**,pH,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,pre,Dissolved oxygen,,mg/l,not sampled,,D.Oxygen,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,during,Dissolved oxygen,0.6,mg/l,,0.6,D.Oxygen,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,after,Dissolved oxygen,,mg/l,not sampled,,D.Oxygen,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,pre,BOD,,mg/l,not sampled,,BOD,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,during,BOD,5.8,mg/l,,5.8,BOD,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,after,BOD,,mg/l,not sampled,,BOD,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Prempura ghat,Upper Lake,pre,pH,7.41,,,7.41,pH,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,during,pH,8.01,,,8.01,pH,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,after,pH,7.92,,,7.92,pH,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,pre,Dissolved oxygen,6.5,mg/l,,6.5,D.Oxygen,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,during,Dissolved oxygen,5.6,mg/l,,5.6,D.Oxygen,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,after,Dissolved oxygen,6.0,mg/l,,6,D.Oxygen,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,pre,BOD,4.8,mg/l,,4.8,BOD,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,during,BOD,4.8,mg/l,,4.8,BOD,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,after,BOD,3.0,mg/l,,3,BOD,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),pre,pH,7.46,,,7.46,pH,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),during,pH,7.7,,,7.7,pH,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),after,pH,7.62,,,7.62,pH,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),pre,Dissolved oxygen,6.9,mg/l,,6.9,D.Oxygen,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),during,Dissolved oxygen,6.9,mg/l,,6.9,D.Oxygen,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),after,Dissolved oxygen,6.2,mg/l,,6.2,D.Oxygen,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),pre,BOD,3.8,mg/l,,3.8,BOD,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),during,BOD,6.9,mg/l,,6.9,BOD,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),after,BOD,4.8,mg/l,,4.8,BOD,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,pre,pH,7.7,,,7.7,pH,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,during,pH,7.82,,,7.82,pH,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,after,pH,7.84,,,7.84,pH,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,pre,Dissolved oxygen,7.0,mg/l,,7,D.Oxygen,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,during,Dissolved oxygen,6.0,mg/l,,6,D.Oxygen,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,after,Dissolved oxygen,6.5,mg/l,,6.5,D.Oxygen,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,pre,BOD,4.2,mg/l,,4.2,BOD,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,during,BOD,5.0,mg/l,,5,BOD,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,after,BOD,4.8,mg/l,,4.8,BOD,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
